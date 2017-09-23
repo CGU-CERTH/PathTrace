@@ -1,0 +1,28 @@
+Total number of analysed families: 1
+Node	Families	Gains	Losses
+BANT-AMA	1	0	0
+node3	1	0	0
+SPYO-SF3	0	0	1
+node2	1	0	0
+ECOL-K12	1	0	0
+node4	1	0	0
+node1	1	0	0
+node6	1	0	0
+ECOL-DH1	1	0	0
+SPNE-705	1	0	0
+node0	0	0	0
+PABY-XXX	0	0	0
+node7	1	1	0
+node5	1	0	0
+node8	0	0	0
+PHOR-XXX	0	0	0
+BAPH-SCH	1	0	0
+BAPH-5AX	1	0	0
+BSUB-XXX	1	0	0
+
+
+-----
+
+Number of suspected HGT events is 0 in 0 genes
+Number of genes acquired once is 1
+Number of gene losses is: 1
