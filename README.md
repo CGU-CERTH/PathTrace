@@ -84,10 +84,17 @@ PHOR-XXX    node0    undef
   A level-3 BioPAX file, containing the target pathway in the analysis. This can be downloaded directly from [BioCyc](https://biocyc.org/).
 
 
+## List of relevant FigShare files
 
 
+- [**PathTrace Demo (_Query_)**](https://figshare.com/articles/PathTrace_Demo_Query_/5426710): A FASTA-formated file containing 86 enzymes that participate in the nine metabolic pathways in the Case Study of the PathTrace tool.
+ - [DOI: 10.6084/m9.figshare.5426710.v1](10.6084/m9.figshare.5426710.v1)  
+- [**PathTrace Demo (_Target_)**](https://figshare.com/articles/PathTrace_Demo_Target_/5422852): This is a snapshot of the [Bacteria
+Ensembl database release 12](ftp://ftp.ensemblgenomes.org/pub/bacteria/release-12), containing a total of 937,529 protein sequences from 249 species, organized into ten major collections. This data is used to construct the target BLAST database for the demo Case Study of the PathTrace tool
+ - [DOI: 10.6084/m9.figshare.5422852.v1](10.6084/m9.figshare.5422852.v1)
+- [**PathTrace Demo (_BLAST output_)**](https://figshare.com/articles/PathTrace_Demo_BLAST_output_/5426725): This is the BLAST output file, produced by running BLAST for the PathTrace Demo (Query) FASTA file against PathTrace Demo (Target) sequences.
+  - [DOI: 10.6084/m9.figshare.5426725.v1](10.6084/m9.figshare.5426725.v1)
 
-
-_Copyright (c) 2016 CERTH <br>
+_Copyright (c) 2017 CERTH <br>
 Author: Fotis E. Psomopoulos <br>
 Last edit: 22 September 2017_
