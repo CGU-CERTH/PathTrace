@@ -21,7 +21,7 @@ Compatible with all major Operating Systems (_verified to work with Linux Ubuntu
 
 In order to run `pathTrace` with the provided demo data, the BLAST-DB necessary for detecting the homologs must be initially constructed.
 
-The `FASTA` file with all target sequences used in the Case Study are available on **[FigShare here](LINKHERE)**. After downloading and uncompressing the data, the `BLAST`-able database can be constructed with the following command.
+The `FASTA` file with all target sequences used in the Case Study are available on **[FigShare here](https://figshare.com/articles/PathTrace_Demo_Target_/5422852)**. After downloading and uncompressing the data, the `BLAST`-able database can be constructed with the following command.
 
 `makeblastdb -in PathTrace-Demo-Target.fasta -parse_seqids -dbtype prot -title bacteria_ensembl_DB -out bacteria_ensembl_DB`
 
