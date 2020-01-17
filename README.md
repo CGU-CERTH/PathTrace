@@ -97,4 +97,4 @@ Ensembl database release 12](ftp://ftp.ensemblgenomes.org/pub/bacteria/release-1
 
 _Copyright (c) 2017 CERTH <br>
 Author: Fotis E. Psomopoulos <br>
-Last edit: 22 September 2017_
+Last edit: 17 January 2020_
