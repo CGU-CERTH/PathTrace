@@ -1,6 +1,7 @@
 # PathTrace
 
 PathTrace is an efficient algorithm for parsimony-based reconstructions of the evolutionary history of individual metabolic pathways.
+[DOI](https://doi.org/10.1099/mgen.0.000429)
 
 ## Requirements
 - Perl _(verified to work in v5.24.1)_
